@@ -9,3 +9,6 @@
 # Data Processing      
 - ### 1. Numpy
   - ##### [Numpy 기초](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/Python/Numpy/Numpy%EA%B8%B0%EC%B4%88.ipynb)    
+- ### 2. Pandas
+- ### 3. Data Visualization
+# 머신러닝 / 딥러닝
