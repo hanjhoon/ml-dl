@@ -13,5 +13,6 @@
 ### conda deactivate 가상환경이름 : 가상환경 비활성화
 ### conda env remove -n 가상환경이름 : 가상환경 삭제
 
+### pip install tensorflow==1.15.0 : 라이브러리 설치
 ### pip list --format=freeze > requirements.txt : requirements.txt 파일에 가상환경 저장
 ### pip install -r requirements.txt : requiremets.txt에 저장된 가상환경 인스톨
