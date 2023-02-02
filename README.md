@@ -7,7 +7,8 @@
 - #### 0 [가상환경](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/Python/virtualenv.md)    
 ## Data Processing      
 - #### 1. Numpy
-  - ###### [Numpy 기초](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/Data%20Processing/Numpy/Numpy%EA%B8%B0%EC%B4%88.ipynb)    
+  - ###### [Numpy 기초](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/Data%20Processing/Numpy/Numpy%EA%B8%B0%EC%B4%88.ipynb)
+  - ###### [Numpy 심화](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/Data%20Processing/Numpy/Numpy%EC%8B%AC%ED%99%94.ipynb)    
 - #### 2. Pandas
 - #### 3. Data Visualization
 ## 머신러닝 / 딥러닝
