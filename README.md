@@ -22,3 +22,6 @@
   - ###### [Data Cleaning](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/Data%20Processing/1-4.%20Pandas%20EDA/2.%20Data%20Cleaning.ipynb)
   - ###### [Feature Extraction](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/Data%20Processing/1-4.%20Pandas%20EDA/3.%20Feature%20Extraction.ipynb)
 ## 머신러닝 / 딥러닝
+ - #### 1. 머신러닝 기초 
+   - ###### [머신러닝 개요](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EC%B4%88/1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B0%9C%EC%9A%94.ipynb)
+   - ###### [Scikit-learn](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EC%B4%88/2.%20Scikit-learn%20Quickstart.ipynb)
