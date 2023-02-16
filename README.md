@@ -25,3 +25,6 @@
  - #### 1. 머신러닝 기초 
    - ###### [머신러닝 개요](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EC%B4%88/1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B0%9C%EC%9A%94.ipynb)
    - ###### [Scikit-learn](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EC%B4%88/2.%20Scikit-learn%20Quickstart.ipynb)
+ - #### 2. 데이터 전처리
+   - ###### [Overfitting(과적합) 문제](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC/1.%20Overfitting(%EA%B3%BC%EC%A0%81%ED%95%A9)%20%EB%AC%B8%EC%A0%9C.ipynb)
+   - ###### [스케일링](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC/2.%20%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81.ipynb)
