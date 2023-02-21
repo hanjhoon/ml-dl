@@ -29,3 +29,7 @@
    - ###### [Overfitting(과적합) 문제](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC/1.%20Overfitting(%EA%B3%BC%EC%A0%81%ED%95%A9)%20%EB%AC%B8%EC%A0%9C.ipynb)
    - ###### [스케일링](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC/2.%20%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81.ipynb)
    - ###### [데이터 인코딩](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9D%B8%EC%BD%94%EB%94%A9.ipynb)
+ - #### 3. 지도학습 모델
+   - ###### [평가지표](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-3.%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/1.%20%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C.ipynb)
+   - ###### [예측 모델](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-3.%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/2.%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8.ipynb)
+   - ###### [분류 모델](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-3.%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/3.%20%EB%B6%84%EB%A5%98%20%EB%AA%A8%EB%8D%B8.ipynb)
