@@ -33,3 +33,4 @@
    - ###### [평가지표](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-3.%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/1.%20%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C.ipynb)
    - ###### [예측 모델](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-3.%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/2.%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8.ipynb)
    - ###### [분류 모델](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-3.%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/3.%20%EB%B6%84%EB%A5%98%20%EB%AA%A8%EB%8D%B8.ipynb)
+   - ###### [앙상블](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-3.%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/4.%20%EC%95%99%EC%83%81%EB%B8%94.ipynb)
