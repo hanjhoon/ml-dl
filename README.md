@@ -34,3 +34,6 @@
    - ###### [예측 모델](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-3.%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/2.%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8.ipynb)
    - ###### [분류 모델](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-3.%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/3.%20%EB%B6%84%EB%A5%98%20%EB%AA%A8%EB%8D%B8.ipynb)
    - ###### [앙상블](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-3.%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/4.%20%EC%95%99%EC%83%81%EB%B8%94.ipynb)
+ - #### 4. 비지도학습 모델
+   - ###### [차원 축소](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-4.%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/1.%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C.ipynb)
+   - ###### [군집](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-4.%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/2.%20%EA%B5%B0%EC%A7%91.ipynb)
