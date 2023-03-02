@@ -38,5 +38,5 @@
    - ###### [차원 축소](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-4.%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/1.%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C.ipynb)
    - ###### [군집](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-4.%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/2.%20%EA%B5%B0%EC%A7%91.ipynb)
  - #### 5. 머신러닝 심
-   - ###### [교차 검증]([https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-4.%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/1.%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C.ipynb](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-5.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%8B%AC%ED%99%94/1.%20%EA%B5%90%EC%B0%A8%20%EA%B2%80%EC%A6%9D.ipynb))
+   - ###### [교차 검증](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-5.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%8B%AC%ED%99%94/1.%20%EA%B5%90%EC%B0%A8%20%EA%B2%80%EC%A6%9D.ipynb)
    - ###### [HPO](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-5.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%8B%AC%ED%99%94/2.%20HPO.ipynb)
