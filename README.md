@@ -21,7 +21,7 @@
   - ###### [Pandas EDA](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/Data%20Processing/1-4.%20Pandas%20EDA/1.%20Pandas%20EDA.ipynb)
   - ###### [Data Cleaning](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/Data%20Processing/1-4.%20Pandas%20EDA/2.%20Data%20Cleaning.ipynb)
   - ###### [Feature Extraction](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/Data%20Processing/1-4.%20Pandas%20EDA/3.%20Feature%20Extraction.ipynb)
-## 머신러닝 / 딥러닝
+## 머신러닝
  - #### 1. 머신러닝 기초 
    - ###### [머신러닝 개요](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EC%B4%88/1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B0%9C%EC%9A%94.ipynb)
    - ###### [Scikit-learn](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EC%B4%88/2.%20Scikit-learn%20Quickstart.ipynb)
@@ -42,3 +42,8 @@
    - ###### [HPO](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-5.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%8B%AC%ED%99%94/2.%20HPO.ipynb)
    - ###### [XAI](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-5.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%8B%AC%ED%99%94/3.%20XAI.ipynb)
    - ###### [Pipeline](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-5.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%8B%AC%ED%99%94/4.%20Pipeline.ipynb)
+## 딥러닝
+ - #### 1. 딥러닝 기초 
+   - ###### [딥러닝 개요](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/Deep%20Learning%20%EA%B0%9C%EC%9A%94.ipynb)
+   - ###### [Tensors](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/1.What%20are%20Tensors.ipynb)
+   - ###### [Loading and normalizing datasets](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/2.Loading%20and%20normalizing%20datasets.ipynb)
