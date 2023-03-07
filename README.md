@@ -47,3 +47,6 @@
    - ###### [딥러닝 개요](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/Deep%20Learning%20%EA%B0%9C%EC%9A%94.ipynb)
    - ###### [Tensors](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/1.What%20are%20Tensors.ipynb)
    - ###### [Loading and normalizing datasets](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/2.Loading%20and%20normalizing%20datasets.ipynb)
+   - ###### [Building the model layers](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/3.Building%20the%20model%20layers.ipynb)
+   - ###### [Automatic differentiation](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/4.Automatic%20differentiation.ipynb)
+   - ###### [Learn about the optimization loop](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/5.Learn%20about%20the%20optimization%20loop.ipynb)
