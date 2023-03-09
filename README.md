@@ -51,7 +51,7 @@
    - ###### [Automatic differentiation](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/4.Automatic%20differentiation.ipynb)
    - ###### [Learn about the optimization loop](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-1.%20Deep%20Learning%20%EA%B8%B0%EC%B4%88/5.Learn%20about%20the%20optimization%20loop.ipynb)
  - #### 2. Vision_Pytorch
-   - ###### [1. Pytorch Workflow](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/1.%20Pytorch%20Workflow.ipynb)
-   - ###### [2. Neural Network Classification](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/2.%20Neural%20Network%20Classification.ipynb)
-   - ###### [3. Computer Vision](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/3.%20Computer%20Vision.ipynb)
+   - ###### [Pytorch Workflow](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/1.%20Pytorch%20Workflow.ipynb)
+   - ###### [Neural Network Classification](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/2.%20Neural%20Network%20Classification.ipynb)
+   - ###### [Computer Vision](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/3.%20Computer%20Vision.ipynb)
    
