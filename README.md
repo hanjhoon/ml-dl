@@ -54,4 +54,6 @@
    - ###### [Pytorch Workflow](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/1.%20Pytorch%20Workflow.ipynb)
    - ###### [Neural Network Classification](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/2.%20Neural%20Network%20Classification.ipynb)
    - ###### [Computer Vision](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/3.%20Computer%20Vision.ipynb)
-   
+   - ######[Custom Datasets](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/4.%20Custom%20Datasets.ipynb)
+   - ######[Modular](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/5.%20Modular.ipynb)
+   - ######[Transfer Learning](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-2.%20Vision_Pytorch/6.%20Transfer%20Learning.ipynb)
