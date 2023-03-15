@@ -61,3 +61,6 @@
    - ###### [텍스트 전처리](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-3.%20NLP/0.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
    - ###### [형태소 분석 with CNN](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-3.%20NLP/1.%20%ED%98%95%ED%83%9C%EC%86%8C%20%EB%B6%84%EC%84%9D%20with%20CNN.ipynb)
    - ###### [텍스트 분류하기](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/3-3.%20NLP/2.%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0.ipynb)
+   - ###### [문자-단위 RNN으로 이름 분류](https://github.com/hanjhoon/ml-dl/blob/main/3-3.%20NLP/3.%EB%AC%B8%EC%9E%90-%EB%8B%A8%EC%9C%84%20RNN%EC%9C%BC%EB%A1%9C%20%EC%9D%B4%EB%A6%84%20%EB%B6%84%EB%A5%98.ipynb)
+   - ###### [문자-단위 RNN으로 이름 생성](https://github.com/hanjhoon/ml-dl/blob/main/3-3.%20NLP/4.%EB%AC%B8%EC%9E%90-%EB%8B%A8%EC%9C%84%20RNN%EC%9C%BC%EB%A1%9C%20%EC%9D%B4%EB%A6%84%20%EC%83%9D%EC%84%B1.ipynb)
+   - ###### [LSTM and GRU](https://github.com/hanjhoon/ml-dl/blob/main/3-3.%20NLP/5.%20LSTM%20and%20GRU.ipynb)
