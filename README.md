@@ -37,7 +37,7 @@
  - #### 4. 비지도학습 모델
    - ###### [차원 축소](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-4.%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/1.%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C.ipynb)
    - ###### [군집](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-4.%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%20%EB%AA%A8%EB%8D%B8/2.%20%EA%B5%B0%EC%A7%91.ipynb)
- - #### 5. 머신러닝 심
+ - #### 5. 머신러닝 심화
    - ###### [교차 검증](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-5.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%8B%AC%ED%99%94/1.%20%EA%B5%90%EC%B0%A8%20%EA%B2%80%EC%A6%9D.ipynb)
    - ###### [HPO](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-5.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%8B%AC%ED%99%94/2.%20HPO.ipynb)
    - ###### [XAI](https://github.com/hanjhoon/hanjhoon.github.io/blob/main/2-5.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%8B%AC%ED%99%94/3.%20XAI.ipynb)
@@ -64,3 +64,6 @@
    - ###### [문자-단위 RNN으로 이름 분류](https://github.com/hanjhoon/ml-dl/blob/main/3-3.%20NLP/3.%EB%AC%B8%EC%9E%90-%EB%8B%A8%EC%9C%84%20RNN%EC%9C%BC%EB%A1%9C%20%EC%9D%B4%EB%A6%84%20%EB%B6%84%EB%A5%98.ipynb)
    - ###### [문자-단위 RNN으로 이름 생성](https://github.com/hanjhoon/ml-dl/blob/main/3-3.%20NLP/4.%EB%AC%B8%EC%9E%90-%EB%8B%A8%EC%9C%84%20RNN%EC%9C%BC%EB%A1%9C%20%EC%9D%B4%EB%A6%84%20%EC%83%9D%EC%84%B1.ipynb)
    - ###### [LSTM and GRU](https://github.com/hanjhoon/ml-dl/blob/main/3-3.%20NLP/5.%20LSTM%20and%20GRU.ipynb)
+   - ###### [Seq2Seq and Attention](https://github.com/hanjhoon/ml-dl/blob/main/3-3.%20NLP/6.Seq2Seq%20and%20Attention.ipynb)
+   - ###### [Transformer](https://github.com/hanjhoon/ml-dl/blob/main/3-3.%20NLP/7.Transformer.ipynb)
+   - ###### [Transfer Learning](https://github.com/hanjhoon/ml-dl/blob/main/3-3.%20NLP/8.Transfer%20Learning.ipynb)
